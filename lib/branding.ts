@@ -5,7 +5,7 @@ export const BRAND = {
   innovationWord: 'Innovation',
   tagline: 'All Online Services At One Place',
   description: 'Fresh Fusion Innovation provides online government services, form filling, document assistance, bill payments, ticket booking, and digital services from home through WhatsApp.',
-  whatsappUrl: 'https://wa.me/9660134134',
+  whatsappUrl: 'https://wa.me/919660134134',
   contact: {
     whatsapp: '+91 9660134134',
     email: 'freshfusion.inn@gmail.com',
