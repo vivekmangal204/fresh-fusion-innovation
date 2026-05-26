@@ -5,7 +5,7 @@ import { FileText, Globe, Printer, Shield, Briefcase, MessageSquare, Zap } from 
 
 export default function Services() {
   const services = [
-    { icon: FileText, title: 'Government Documents', items: ['PAN Card', 'Aadhar', 'Passport', 'Driving License'] },
+    { icon: FileText, title: 'Government Documents', items: ['PAN Card', 'Aadhar', 'Passport', 'Driving License', 'Voter ID', 'Marraige Certificate'] },
     { icon: Globe, title: 'Online Applications', items: ['Visa Application', 'Scholarship Form', 'Job Applications', 'Permits'] },
     { icon: Printer, title: 'Print Services', items: ['Document Printing', 'ID Cards', 'Certificates', 'Custom Printing'] },
     { icon: Shield, title: 'Digital Verification', items: ['E-Signature', 'Document Verification', 'Authentication', 'Certification'] },

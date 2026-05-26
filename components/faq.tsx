@@ -11,35 +11,43 @@ export default function FAQ() {
   const faqs = [
     {
       question: 'How do I get started?',
-      answer: 'Simply click "Start on WhatsApp" and message us your service request. Our team will guide you through the entire process step by step.',
+      answer:
+        'Getting started is simple. Just click on "Start on WhatsApp" and send us your requirement. Our team will personally guide you through every step, from document collection to final approval.',
     },
     {
       question: 'What documents do I need?',
-      answer: 'Required documents vary by service. After you share your request, we&apos;ll send you a checklist of all documents needed for your specific service.',
+      answer:
+        'The required documents depend on the service you choose. Once you share your request, our team will instantly provide you with a customized checklist and help you avoid missing any important documents.',
     },
     {
       question: 'How long does processing take?',
-      answer: 'Standard processing takes 2-5 business days. For express services, we offer 24-hour processing. You&apos;ll receive updates via WhatsApp throughout.',
+      answer:
+        'Processing time varies by service type. Most standard services are completed within 2–5 business days, while urgent requests can often be processed within 24 hours. You’ll receive regular progress updates on WhatsApp.',
     },
     {
       question: 'Is my information secure?',
-      answer: 'Yes! We use bank-level encryption for all documents. Your data is never shared with third parties, and we comply with all data protection laws.',
+      answer:
+        'Absolutely. Your personal information and documents are protected with secure handling practices and strict privacy measures. We never share your data with third parties without your consent.',
     },
     {
       question: 'What payment methods do you accept?',
-      answer: 'We accept all major payment methods including credit cards, debit cards, UPI, net banking, and Google Pay. All transactions are 100% secure.',
+      answer:
+        'We support multiple payment options including UPI, debit cards, credit cards, net banking, and digital wallets. All transactions are processed securely for a safe and hassle-free experience.',
     },
     {
       question: 'Can I track my application status?',
-      answer: 'Absolutely! You&apos;ll receive real-time updates on WhatsApp at every step. You can also check your dashboard anytime for detailed progress.',
+      answer:
+        'Yes. You’ll receive real-time updates throughout the process on WhatsApp, so you always know the current status of your application without needing to follow up repeatedly.',
     },
     {
-      question: 'What if I have issues after completion?',
-      answer: 'We offer lifetime support for all our services. If any issue arises, reach out via WhatsApp and our team will resolve it free of charge.',
+      question: 'What if I face issues after completion?',
+      answer:
+        'Our support doesn’t end after the service is completed. If you face any issue or need assistance later, our team will be available to help you quickly and efficiently.',
     },
     {
       question: 'Do you offer bulk services?',
-      answer: 'Yes! We offer special packages for bulk orders with attractive discounts. Contact us for corporate or bulk service inquiries.',
+      answer:
+        'Yes, we provide bulk and corporate service solutions with dedicated support and special pricing. Contact us directly to discuss your requirements and get a customized offer.',
     },
   ];
 
