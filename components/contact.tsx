@@ -191,7 +191,7 @@ export default function Contact() {
 
             {/* Main CTA */}
             <motion.a
-              href="https://wa.me/9876543210"
+              href="https://wa.me/919660134134"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.02, y: -2 }}
